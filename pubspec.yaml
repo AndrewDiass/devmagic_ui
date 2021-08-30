@@ -2,6 +2,7 @@ name: devmagic_ui
 description: A new Flutter package project.
 version: 0.0.1
 homepage: https://devmagic.com.br
+repository: https://github.com/AndrewDiass/devmagic_ui
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
